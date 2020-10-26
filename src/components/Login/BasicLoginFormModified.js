@@ -16,12 +16,6 @@ import validator from 'validator';
 import {connect} from 'react-redux'  ;
 import {login} from '../../Actions/login';
 
-
-
-
-
-
-
 class LoginForm extends Component {
   constructor(props) {
     super(props);
